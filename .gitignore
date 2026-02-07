@@ -1,0 +1,9 @@
+# Don't commit source images
+*.HEIC
+*.heic
+*.png
+*.psd
+
+# Node/build
+node_modules/
+dist/
